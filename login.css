@@ -1,0 +1,75 @@
+.mainHeading {
+	font-family:  Manifesto,Inicio,Code light,Alien League Expanded,  arial narrow;
+	height:30px;
+	width: 100%;
+	margin-top: 100px;
+	text-align: center;
+	font-size: 90;
+	color: white;
+}
+
+body {
+	margin: 0;
+	background-image: url("LoginMapBG.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.signUp {
+	position: static;
+	font-weight: bold;
+	font-family: aliquam;
+	margin-top: 40px;
+	font-size: 50px;
+	font-weight: bold;
+	width: 100%;
+	
+}
+
+
+.container {
+	font-family: arial narrow;
+	font-size: 15px;
+	font-weight: bold;
+	width: 350px;
+	height: 450px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: rgba(206, 206, 206, 0.5);
+	border: 2px solid #fff;
+	border-radius: 5px;
+	margin-top: 100px;
+}
+
+form{
+	width: 100%;
+	margin: 100px auto;
+}
+
+form div{
+	margin: 3px auto;
+}
+
+.textInput{
+	font-family:aliquam, arial;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	height: 25px;
+	border: 1px solid #5E6E66;
+	font-size: 20px;
+	padding: 1px;
+	width: 70%;
+}
+
+.btn{
+	font-family:Aliquam,arial narrow;
+	font-size:22px;
+	height:30px;
+	margin-top: 25px;
+	padding: 0px;
+	width: 70%;
+}
+
+.val_error{
+	color: #FF1F1F;
+}
